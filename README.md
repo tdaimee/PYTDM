@@ -1,13 +1,20 @@
-|  _ \ \ / /_   _|  _ \|  \/  |
-| |_) \ V /  | | | | | | |\/| |
-|  __/ | |   | | | |_| | |  | |
-|_|    |_|   |_| |____/|_|  |_|
-
- Entraineur Python en version terminal v1.
- pas terminé mais fonctionnel.
+| |  _ \ \ / /_   _|  _ \|  \/  | |
+| | |_) \ V /  | | | | | | |\/| | |
+| |  __/ | |   | | | |_| | |  | | |
+| |_|    |_|   |_| |____/|_|  |_| |
 
 
- Projet PYTDM v2
+# Projet PYTDM v2
 
- site web en local.
+## Description
+Entraîneur Python en version terminal **v1**.  
+*(Pas terminé mais fonctionnel.)*
+
+---
+
+## Fonctionnalités
+- Exécution en terminal
+- Site web en local (prévu pour la v2)
+
+---
  
